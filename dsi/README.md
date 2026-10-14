@@ -1,18 +1,21 @@
-# Paperfive Pocket Camera — DSi v15
+# Paperfive Pocket Camera - DSi v16
 
-[Download file .nds](paperfive_pocket_camera-v15.nds?raw=true)
+[Download file .nds](paperfive_pocket_camera-v16.nds?raw=true)
+
+v16: tombol L atau R sekarang mengambil foto. Pergantian filter hanya melalui
+palette touchscreen; tampilan dan kontrol lainnya tetap.
 
 ## Instalasi
 
 1. Matikan Nintendo DSi / DSi XL, lalu hubungkan SD card ke komputer.
-2. Salin `paperfive_pocket_camera-v15.nds` ke SD card, misalnya ke `/roms/nds/`. Hanya file .nds ini yang diperlukan untuk aplikasinya; jangan hapus file TWiLight Menu++ yang sudah ada.
+2. Salin `paperfive_pocket_camera-v16.nds` ke SD card, misalnya ke `/roms/nds/`. Hanya file .nds ini yang diperlukan untuk aplikasinya; jangan hapus file TWiLight Menu++ yang sudah ada.
 3. Eject SD card dengan aman, pasang kembali, lalu buka TWiLight Menu++.
 4. Jalankan ROM dalam **DSi mode**. Kamera tidak tersedia pada DS / DS Lite atau saat berjalan dalam DS mode.
 
 ## Kontrol
 
-- A atau tombol merah: ambil foto.
-- L / R: ganti filter.
+- L, R, A, atau tombol merah: ambil foto (sekali per tekan, saat di kamera).
+- Palette touchscreen: ganti filter. L / R tidak lagi mengganti filter.
 - Kiri / kanan: contrast; atas / bawah: brightness.
 - Slider layar sentuh: brightness dan contrast.
 - Flip Lens atau X: kamera depan / belakang.
@@ -28,12 +31,15 @@ Jika album kosong, pastikan foto berhasil disimpan dan SD card dapat ditulis. Ji
 
 ## Verifikasi file
 
-Versi yang diunggah: v15, 195584 byte. Upload ini tidak mengubah atau membangun ulang ROM.
+Versi yang diunggah: v16, 195584 byte. Build serta tes filter dan photo frame
+lulus secara lokal. Perubahan kontrol v16 belum diuji langsung di DSi.
 
 SHA-256:
 ```
-bd061f3167cb22f0b97e35e62ec6b3ef40ab60b18d4129bfbb04a56b192b8dfc
+773f6340f146017c8de7ed3c795f0a2bfe6c36da8cb332ec1592c4b6ebd2fa79
 ```
+
+[Download versi sebelumnya: v15](paperfive_pocket_camera-v15.nds?raw=true)
 
 [Kembali ke pilihan konsol](../README.md)
 
