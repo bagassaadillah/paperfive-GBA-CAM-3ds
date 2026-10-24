@@ -1,11 +1,11 @@
-# Paperfive GBA CAM 3DS
+# Paperfive GBA CAM 3DS — beta 2
 
 Aplikasi kamera homebrew buatan Paperfive, terinspirasi dari Game Boy Camera.
-Versi **3DS beta 1** ini merupakan port native dari desain Paperfive DSi v15.
+Versi **3DS beta 2** ini merupakan port native dari desain Paperfive DSi v17.
 
 ## Download
 
-- [Paket siap salin ke SD card](Paperfive-Camera-3DS-beta1-SD.zip?raw=true)
+- [Paket siap salin ke SD card](Paperfive-Camera-3DS-beta2-SD.zip?raw=true)
 - [File aplikasi .3dsx](paperfive_camera_3ds.3dsx?raw=true)
 
 ![Tampilan kontrol native 320×240, diperbesar 2×](preview-controls.png)
@@ -13,7 +13,9 @@ Versi **3DS beta 1** ini merupakan port native dari desain Paperfive DSi v15.
 ## Fitur
 
 - Preview atas **400×240**, kontrol bawah **320×240**.
-- Filter, slider brightness dan contrast, flip lens, album, dan border tersedia.
+- Filter awal adalah **OFF**; Pocket, Mono, Hard, Sepia, atau Dither dapat
+  dipilih dari palette. Slider brightness dan contrast, flip lens, album, dan
+  border tetap tersedia.
 - Target kamera **30 fps**, dengan double buffering dan penyimpanan JPG di
   thread terpisah agar preview tetap responsif saat menyimpan.
 - Foto tersimpan di `/paperfive_camera_3ds/` pada SD card.
@@ -36,7 +38,7 @@ Panduan ini untuk memasang aplikasinya; tidak mencakup pemasangan custom firmwar
 ## Cara memasang
 
 1. Matikan konsol sebelum melepas SD card, lalu hubungkan SD card ke komputer.
-2. Download dan ekstrak `Paperfive-Camera-3DS-beta1-SD.zip`.
+2. Download dan ekstrak `Paperfive-Camera-3DS-beta2-SD.zip`.
 3. Salin folder `3ds` dari hasil ekstrak ke **root SD card**, yaitu lokasi paling
    luar kartu. Jika folder `3ds` sudah ada, gabungkan isinya; jangan mengganti
    atau menghapus seluruh folder yang sudah ada.
