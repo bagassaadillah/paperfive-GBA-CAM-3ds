@@ -1,15 +1,16 @@
-# Paperfive Pocket Camera - DSi v17
+# Paperfive Pocket Camera - DSi v18
 
-[Download file .nds](paperfive_pocket_camera-v17.nds?raw=true)
+[Download file .nds](paperfive_pocket_camera-v18.nds?raw=true)
 
-v17: album membuka foto terbaru dahulu, preview dipacing lebih stabil, dan
-filter awal adalah **OFF**. Tombol L atau R tetap mengambil foto; filter
-dipilih melalui palette touchscreen.
+v18: album mengurutkan foto capture Paperfive terbaru berdasarkan timestamp
+nama file, menggunakan waktu file untuk foto impor, dan membaca `.JPG` kapital.
+Preview tetap dipacing lebih stabil dan filter awal adalah **OFF**. Tombol L
+atau R tetap mengambil foto; filter dipilih melalui palette touchscreen.
 
 ## Instalasi
 
 1. Matikan Nintendo DSi / DSi XL, lalu hubungkan SD card ke komputer.
-2. Salin `paperfive_pocket_camera-v17.nds` ke SD card, misalnya ke `/roms/nds/`. Hanya file .nds ini yang diperlukan untuk aplikasinya; jangan hapus file TWiLight Menu++ yang sudah ada.
+2. Salin `paperfive_pocket_camera-v18.nds` ke SD card, misalnya ke `/roms/nds/`. Hanya file .nds ini yang diperlukan untuk aplikasinya; jangan hapus file TWiLight Menu++ yang sudah ada.
 3. Eject SD card dengan aman, pasang kembali, lalu buka TWiLight Menu++.
 4. Jalankan ROM dalam **DSi mode**. Kamera tidak tersedia pada DS / DS Lite atau saat berjalan dalam DS mode.
 
@@ -34,15 +35,16 @@ Jika album kosong, pastikan foto berhasil disimpan dan SD card dapat ditulis. Ji
 
 ## Verifikasi file
 
-Versi yang diunggah: v17. Build serta tes filter dan photo frame lulus secara
-lokal. Kelancaran preview dan kamera tetap perlu diuji langsung di DSi.
+Versi yang diunggah: v18. Build serta tes filter, photo frame, dan urutan album
+lulus secara lokal. Kelancaran preview, urutan pada SD fisik, dan kamera tetap
+perlu diuji langsung di DSi.
 
 SHA-256:
 ```
-b1217883d2ba6c129bf2a2e1a2cbfbd3ab91237b6d91282dc48d53700988ab27
+55d640edf68dfde6ac130c1d2b33ef83a707aa1be7e6a48b0f3847326b426c72
 ```
 
-[Download versi sebelumnya: v16](paperfive_pocket_camera-v16.nds?raw=true)
+[Download versi sebelumnya: v17](paperfive_pocket_camera-v17.nds?raw=true)
 
 [Kembali ke pilihan konsol](../README.md)
 

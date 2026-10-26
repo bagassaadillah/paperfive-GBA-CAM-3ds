@@ -22,15 +22,17 @@ Hasil foto dari versi DSi, dengan bingkai NINTENDO CAMERA.
 
 | Konsol | Download | Tutorial |
 | --- | --- | --- |
-| Nintendo DSi / DSi XL | [DSi v17 (.nds)](dsi/paperfive_pocket_camera-v17.nds?raw=true) | [Panduan DSi](dsi/README.md) |
+| Nintendo DSi / DSi XL | [DSi v18 (.nds)](dsi/paperfive_pocket_camera-v18.nds?raw=true) | [Panduan DSi](dsi/README.md) |
 | Nintendo 3DS / 2DS | [3DS beta 2 (ZIP siap SD)](3ds/Paperfive-Camera-3DS-beta2-SD.zip?raw=true) | [Panduan 3DS](3ds/README.md) |
 
 DSi: jalankan melalui TWiLight Menu++ dalam **DSi mode**. 3DS: jalankan melalui **Homebrew Launcher**, bukan TWiLight Menu.
 
 Folder foto berbeda: DSi `/paperfive_camera/`, 3DS `/paperfive_camera_3ds/`.
 
-DSi v17 membuka album dari foto terbaru, memulai kamera dengan filter **OFF**,
-dan memakai preview yang lebih ringan dengan frame pacing stabil. 3DS beta 2
+DSi v18 membuka album dari foto terbaru berdasarkan waktu capture Paperfive
+(atau waktu file untuk foto impor), mendukung ekstensi JPG kapital, memulai
+kamera dengan filter **OFF**, dan memakai preview yang lebih ringan dengan
+frame pacing stabil. 3DS beta 2
 menyamakan filter awal **OFF**; album 3DS sudah menampilkan JPG terbaru dahulu.
 
 Versi 3DS masih beta; kamera dan performa di perangkat asli belum terverifikasi. Proyek independen, bukan aplikasi resmi Nintendo.
